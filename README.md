@@ -1,2 +1,2 @@
-# practica-resolucion-sld
-Práctica de la materia de programación lógica. Semestre 2025-08.
+# Práctica de Resolución SLD
+Aquí va a ir la información que estoy utilizando, el equipo al que pertenezco, reglas y hechos que voy a utilizar.
